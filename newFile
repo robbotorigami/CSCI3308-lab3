@@ -1,0 +1,9 @@
+#include <stdint.h>
+
+void superDuperFunction(bool doTheThing){
+	if(doTheThing){
+		return;
+	}else{
+		return;
+	}
+}
